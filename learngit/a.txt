@@ -1,6 +1,5 @@
 aaaaaaaaaaaaaa
-push origin
-3333333333333.....test....11111111
+2222222222222222
 test fitst commit.......
 this is first line.
 first line.77777777777777999
